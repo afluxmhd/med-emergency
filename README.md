@@ -1,6 +1,6 @@
-# Med Emergency
+# Med Emergency | Reva Hack'22
 
-App Functioning Youtube link
+Check out link for App Functioning video
 - [Med Emergency functioning video](https://youtube.com/shorts/2iNFB8BXUKQ?feature=share)
 
 
